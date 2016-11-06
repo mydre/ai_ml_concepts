@@ -1,0 +1,49 @@
+[W 14:10:55.618 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[I 14:10:56.161 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[W 14:10:56.195 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 14:10:56.413 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 14:10:56.413 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 14:10:56.416 NotebookApp] [nb_conda] enabled
+[I 14:10:56.448 NotebookApp] [nb_anacondacloud] enabled
+[I 14:10:56.452 NotebookApp] Serving notebooks from local directory: /home/ritesh_malaiya/my_projects/ai_ml_concepts
+[I 14:10:56.452 NotebookApp] 0 active kernels 
+[I 14:10:56.452 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:9999/
+[I 14:10:56.452 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:11:18.608 NotebookApp] 302 GET / (12.69.105.66) 0.47ms
+[I 14:11:35.395 NotebookApp] Kernel started: 40976394-ed8a-4196-9e54-55b615555a7d
+[W 14:11:35.437 NotebookApp] 404 GET /kernelspecs/Python%20[tensorflow]/logo-64x64.png (12.69.105.66) 20.92ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/2_fullyconnected.ipynb
+[W 14:11:35.613 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20161105141056 (12.69.105.66) 88.16ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/2_fullyconnected.ipynb
+[W 14:11:37.483 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20161105141056 (12.69.105.66) 1.69ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[I 14:11:38.084 NotebookApp] Kernel started: 8df99b38-ef9c-4d3c-9f98-729ae89b3e54
+[W 14:11:38.093 NotebookApp] 404 GET /kernelspecs/Python%20[tensorflow]/logo-64x64.png (12.69.105.66) 5.46ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[IPKernelApp] ERROR | No such comm target registered: ipython.widget
+[IPKernelApp] ERROR | No such comm target registered: ipython.widget
+[I 14:13:24.516 NotebookApp] Kernel restarted: 8df99b38-ef9c-4d3c-9f98-729ae89b3e54
+[W 14:13:24.518 NotebookApp] zmq message arrived on closed channel
+[I 14:13:38.069 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[I 14:14:07.138 NotebookApp] Saving file at /deep_learning/code/2_fullyconnected.ipynb
+[W 14:14:18.634 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20161105141056 (12.69.105.66) 2.21ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/Dict_Key1D_value2D_To3DArray_To2DArray.ipynb
+[I 14:14:19.536 NotebookApp] Kernel started: 77594d15-7728-4a76-8410-e73308745c7c
+[W 14:14:19.555 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (12.69.105.66) 2.44ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/Dict_Key1D_value2D_To3DArray_To2DArray.ipynb
+[W 14:14:22.926 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20161105141056 (12.69.105.66) 1.58ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/RecognizingCharacters_Ritesh.ipynb
+[I 14:14:23.618 NotebookApp] Kernel started: 6284439d-44f9-4200-b66b-a75673bc6260
+[W 14:14:23.626 NotebookApp] 404 GET /kernelspecs/Python%20[tensorflow]/logo-64x64.png (12.69.105.66) 2.15ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/RecognizingCharacters_Ritesh.ipynb
+[IPKernelApp] ERROR | No such comm target registered: ipython.widget
+[I 14:15:25.182 NotebookApp] Kernel restarted: 6284439d-44f9-4200-b66b-a75673bc6260
+[I 14:15:38.893 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[I 14:16:23.866 NotebookApp] Saving file at /deep_learning/code/RecognizingCharacters_Ritesh.ipynb
+[W 14:20:08.150 NotebookApp] WebSocket ping timeout after 119984 ms.
+[W 14:20:20.181 NotebookApp] WebSocket ping timeout after 119982 ms.
+[W 14:20:25.104 NotebookApp] WebSocket ping timeout after 119896 ms.
+[W 14:20:25.883 NotebookApp] WebSocket ping timeout after 119959 ms.
+[I 14:41:44.250 NotebookApp] Kernel shutdown: 77594d15-7728-4a76-8410-e73308745c7c
+[W 14:41:44.253 NotebookApp] 404 GET /kernelspecs/Python%20[tensorflow]/logo-64x64.png (12.69.105.66) 1.56ms referer=http://104.198.204.169:9999/notebooks/deep_learning/code/Dict_Key1D_value2D_To3DArray_To2DArray.ipynb
+[I 14:41:44.373 NotebookApp] Kernel started: 5ea23412-961d-4206-b8fa-4d5d3b8eafe1
+[I 14:41:52.089 NotebookApp] Kernel restarted: 5ea23412-961d-4206-b8fa-4d5d3b8eafe1
+[W 14:41:52.091 NotebookApp] zmq message arrived on closed channel
+[I 14:42:03.577 NotebookApp] Saving file at /deep_learning/code/Dict_Key1D_value2D_To3DArray_To2DArray.ipynb
+[I 14:43:41.803 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[I 14:47:42.083 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[I 15:09:41.671 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
+[W 15:51:32.561 NotebookApp] WebSocket ping timeout after 119675 ms.
+[W 23:55:44.525 NotebookApp] WebSocket ping timeout after 119945 ms.
