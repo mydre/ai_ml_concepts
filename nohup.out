@@ -47,3 +47,9 @@
 [I 15:09:41.671 NotebookApp] Saving file at /deep_learning/code/FirstTensorFlow-GDandSGD.ipynb
 [W 15:51:32.561 NotebookApp] WebSocket ping timeout after 119675 ms.
 [W 23:55:44.525 NotebookApp] WebSocket ping timeout after 119945 ms.
+[C 02:02:47.940 NotebookApp] received signal 15, stopping
+[I 02:02:47.941 NotebookApp] Shutting down kernels
+[I 02:02:48.054 NotebookApp] Kernel shutdown: 5ea23412-961d-4206-b8fa-4d5d3b8eafe1
+[I 02:02:48.054 NotebookApp] Kernel shutdown: 40976394-ed8a-4196-9e54-55b615555a7d
+[I 02:02:48.055 NotebookApp] Kernel shutdown: 6284439d-44f9-4200-b66b-a75673bc6260
+[I 02:02:48.055 NotebookApp] Kernel shutdown: 8df99b38-ef9c-4d3c-9f98-729ae89b3e54
